@@ -1,0 +1,93 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.homepage {
+    background: url("images/leaves.jpg") no-repeat center center fixed;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.link1 {
+    text-align:center;
+}
+
+.GifPage {
+    background: url("images/leaves.jpg") no-repeat center center fixed;
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.title {
+    color: white;
+    text-align: center;
+    padding-top: 17%;
+    font-size: 3.5vmax;
+    
+}
+.home-h3 {
+    color: white;
+    text-align: center;
+    padding-top: 1%;
+    font-size: 2.5vmax;
+    
+}
+
+.home-link {
+    color: white;
+    font-size: .5vmax;
+}
+
+.title2 {
+    color: white;
+    text-align: center;
+    padding-top:1%;
+    font-size:1.5vmax;
+}
+
+.pic-table {
+    margin: 0;
+    padding-top:5%;
+    text-align:center;
+}
+.pic {
+    height: 25vmax;
+    width: 25vmax;
+    display:inline-block;
+    margin: 1%;
+}
+
+#p1 {
+    background: url("http://i.giphy.com/l0Exh0jvgGY43qKPe.gif") center center;
+    background-size: cover;
+   
+}
+#p2 {
+    background: url("http://i.giphy.com/E8BKRmebpiire.gif") center center;
+    background-size: cover;
+}
+#p3 {
+    background: url("http://i.giphy.com/13mXNbbLBArlf2.gif") center center;
+    background-size: cover;
+}
+#p4 {
+    background: url("http://i.giphy.com/12wteMTXxjLaVO.gif") center center;
+    background-size: cover;
+}
+#p5 {
+    background: url("http://i.giphy.com/pJlwmFs6l8uQw.gif") center center;
+    background-size: cover;
+}
+#p6 {
+    background: url("http://i.giphy.com/rbEQ5LkMhxUvm.gif") center center;
+    background-size: cover;
+}
